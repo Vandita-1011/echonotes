@@ -194,7 +194,7 @@ Runs on `http://localhost:5173`.
   origin (`http://localhost:5173`) by default.
 
 ## Author 
-** DUVVURU VANDITA
+DUVVURU VANDITA
 
 
 https://github.com/user-attachments/assets/2f868933-c66b-4666-95f1-69cc46e7e09f
