@@ -36,10 +36,6 @@ each one.
   readable error message on that meeting's card, not a crash
 - 🔒 Upload size limit (100MB) enforced server-side
 
-### Demo Video
-
-📹 [Watch the demo](https://github.com/user-attachments/assets/2f868933-c66b-4666-95f1-69cc46e7e09f)
-
 ## Architecture & Workflow
 
 ```
