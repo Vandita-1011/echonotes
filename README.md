@@ -38,7 +38,7 @@ each one.
 
 ### Demo Video
 
-📹 [Watch the demo](PASTE_YOUR_VIDEO_LINK_HERE)
+📹 [Watch the demo](https://github.com/user-attachments/assets/b5c7ad21-3b64-4bfc-bf82-70ac68e5d014)
 
 ## Architecture & Workflow
 
@@ -196,3 +196,8 @@ Runs on `http://localhost:5173`.
   required to evaluate this project.
 - **CORS** — the backend allows requests from the frontend's local dev
   origin (`http://localhost:5173`) by default.
+Author 
+Vandita Duvvuru
+
+https://github.com/user-attachments/assets/b5c7ad21-3b64-4bfc-bf82-70ac68e5d014
+
