@@ -38,7 +38,7 @@ each one.
 
 ### Demo Video
 
-📹 [Watch the demo](https://github.com/user-attachments/assets/b5c7ad21-3b64-4bfc-bf82-70ac68e5d014)
+📹 [Watch the demo](https://github.com/user-attachments/assets/2f868933-c66b-4666-95f1-69cc46e7e09f)
 
 ## Architecture & Workflow
 
@@ -199,5 +199,10 @@ Runs on `http://localhost:5173`.
 Author 
 Vandita Duvvuru
 
-https://github.com/user-attachments/assets/b5c7ad21-3b64-4bfc-bf82-70ac68e5d014
+
+https://github.com/user-attachments/assets/2f868933-c66b-4666-95f1-69cc46e7e09f
+
+
+
+
 
