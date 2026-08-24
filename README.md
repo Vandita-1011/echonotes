@@ -192,8 +192,9 @@ Runs on `http://localhost:5173`.
   required to evaluate this project.
 - **CORS** — the backend allows requests from the frontend's local dev
   origin (`http://localhost:5173`) by default.
-Author 
-Vandita Duvvuru
+
+## Author 
+** DUVVURU VANDITA
 
 
 https://github.com/user-attachments/assets/2f868933-c66b-4666-95f1-69cc46e7e09f
